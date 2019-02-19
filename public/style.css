@@ -1,0 +1,16 @@
+#root {
+    background-image: url(https://images4.alphacoders.com/781/781504.jpg);
+    background-size: cover;
+}
+
+#jumbo {
+   background: rgba(255, 255, 255, 0.527)
+}
+
+#card {
+    background:rgba(255, 255, 255, 0.527)
+}
+
+#form {
+    background: rgba(255, 255, 255, 0.527)
+}
